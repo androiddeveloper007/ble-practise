@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ble-practise</string>
+    <string name="ble_tip_title">""</string>
+    <string name="ble_tip_text">"蓝牙广播检测中"</string>
 </resources>
